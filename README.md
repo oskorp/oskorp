@@ -1,7 +1,7 @@
 
 
 <h1 align='center'>
-  Hi there 👋  I'm   <a href="https://ayushkul.github.io/" target="_blank">
+  Hi there 👋  I'm   <a href="oskorp.tech" target="_blank">
   Omkar Khandalkar</a> 👨‍💻
 </h1>
 
