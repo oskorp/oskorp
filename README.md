@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate on ...[Youtube](https://www.youtube.com/channel/UCk9pjn_xJ5pD8gZLzb0bUsw)
 
 - 📫 How to reach me: ...
-[INSTAGRAM](https://www.instagram.com/omkar_khandalkar/)
+[LINKEDIN](https://www.linkedin.com/in/omkar-suresh-khandalkar-901a85153/)
 
 
 <p align='center'>
