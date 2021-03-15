@@ -8,7 +8,6 @@
 
 
 
-- 🔭 I’m currently working on ...Finacial website
 - 🌱 I’m currently Exploring...Full stack Development
 - 👯 I’m looking to collaborate on ...[Youtube](https://www.youtube.com/channel/UCk9pjn_xJ5pD8gZLzb0bUsw)
 
